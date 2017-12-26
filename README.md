@@ -3,4 +3,3 @@ A web application for collecting feedback through a web interface.This feedback 
 
 Users: Admin , Faculty and Student
 
-HTML5,CSS,Javascript, Twitter Bootstrap Framework for front-end and PHP, MySql for back-end of the web application
