@@ -1,0 +1,90 @@
+.sub_btn{
+	padding:5px;
+	width:80px;
+	background-color:#333;
+	color:#FFF;
+	border-radius:5px;
+	font-size:16px;
+	}
+.reference{
+	background-color:#CCC;
+	border-radius:5px;
+	}
+.reference tr td{
+	padding:10px;
+	width:120px;
+	font-weight:bold;
+	}
+./*table.reference {
+	width:100%;
+	max-width:100%;
+	border-left:1px solid #dddddd;
+	border-right:1px solid #dddddd;
+	border-bottom:1px solid #dddddd;
+
+}
+table.reference>thead>tr>th, table.reference>tbody>tr>th, table.reference>tfoot>tr>th, table.reference>thead>tr>td, table.reference>tbody>tr>td, table.reference>tfoot>tr>td {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+
+}
+//table.reference tr:nth-child(odd)	{background-color:#ffffff;}
+//table.reference tr:nth-child(even)	{background-color:#f5f5f5;}
+table.reverse tr:nth-child(odd)	{background-color:#f5f5f5 !important;}
+table.reverse tr:nth-child(even)	{background-color:#ffffff !important;}
+table.tecspec {
+	width:100%;
+	max-width:100%;
+	border-bottom:1px solid #dddddd;
+}
+table.tecspec>thead>tr>th, table.tecspec>tbody>tr>th, table.tecspec>tfoot>tr>th, table.tecspec>thead>tr>td, table.tecspec>tbody>tr>td, table.tecspec>tfoot>tr>td {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+}
+table.lamp {
+    width:100%;
+    padding:0px;
+    border:1px solid #d4d4d4;
+}
+table.lamp th {
+    color:#000000;
+    background-color:white;
+    padding:10px;
+    padding-right:5px;
+}
+table.lamp td {
+    padding:4px;
+    padding-left:0px;
+    padding-right:10px;
+    background-color:#ffffff;
+}
+p{
+	text-align: left;
+}
+/*button {
+  width: 25%;
+  height: 75%;
+  padding: 10px 10px;
+  background: #2196F3;
+  color: #fff;
+  display: block;
+  border: none;
+  margin-top: 20px;
+  position: relative;
+  left: 550;
+  max-height: 40px;
+  border: 0px solid rgba(0, 0, 0, 0.1);
+  border-radius: 0 0 2px 2px;
+  transform: rotateZ(0deg);
+  transition: all 0.1s ease-out;
+  border-bottom-width: 7px;
+}
+p.msg{
+	font-size: 16;
+	font-style: normal;
+}
+*/
